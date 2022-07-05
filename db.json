@@ -169,5 +169,18 @@
       }
     ]
   },
-  "purchase": {}
+  "Purchase": {
+    "pancarte": "123",
+    "montant": "123",
+    "idproduit": "123",
+    "prixunitaire": "12",
+    "quantite": "12",
+    "checksum": "12",
+    "tpeStan": "12",
+    "montantFinal": "12",
+    "trxDate": "12",
+    "codePst": "12",
+    "transactionStatus": "VALID",
+    "transactionType": "achat"
+  }
 }
