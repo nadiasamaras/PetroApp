@@ -180,7 +180,7 @@
     "montantFinal": "12",
     "trxDate": "12",
     "codePst": "12",
-    "transactionStatus": "VALID",
-    "transactionType": "achat"
+    "transactionStatus": "VALIDE",
+    "transactionType": "ACHAT"
   }
 }
