@@ -193,7 +193,45 @@
     "transactionStatus": "VALIDE",
     "transactionType": "RECHARGE",
     "refTransaction": "12365"
+  },
+  
+    "Annulation": {
+    "pancarte": "123",
+    "montant": "123",
+    "tpeStan": "12",
+    "montantFinal": "12", 
+    "codePst": "12",
+    "transactionStatus": "CANCELED",
+    "transactionType": "RECHARGE",
+    "refTransaction": "12365"
+  },
+  
+   "Collecte": {
+    "validSum": "123",
+    "cancelSum": "123"
+  },
+  
+   "Duplicata": {
+    "pancarte": "123",
+    "montant": "123",
+    "tpeStan": "12",
+    "montantFinal": "12", 
+    "codePst": "12",
+    "transactionStatus": "CANCELED",
+    "transactionType": "RECHARGE",
+    "refTransaction": "12365"
+  },
+  
+   "DevCarte": {
+    "pancarte": "123",
+    "newPwd": "123",
+    "confirmPwd": "125" 
+  },
+  
+    "PwdReset": {
+    "pancarte": "123",
+    "oldPwd" : "256",
+    "newPwd": "123",
+    "confirmPwd": "125" 
   }
-  
-  
 }
