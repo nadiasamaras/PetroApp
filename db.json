@@ -182,5 +182,18 @@
     "codePst": "12",
     "transactionStatus": "VALIDE",
     "transactionType": "ACHAT"
+  },
+   "Recharge": {
+    "pancarte": "123",
+    "montant": "123"
+    "checksum": "12",
+    "tpeStan": "12",
+    "montantFinal": "12", 
+    "codeAdmin": "12",
+    "transactionStatus": "VALIDE",
+    "transactionType": "RECHARGE",
+    "refTransaction": "12365"
   }
+  
+  
 }
